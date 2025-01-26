@@ -1,0 +1,1 @@
+Combining blogging, research, and Rust coding to explore novel compression algorithms
