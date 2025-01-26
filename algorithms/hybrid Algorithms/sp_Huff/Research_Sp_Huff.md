@@ -1,0 +1,1 @@
+Encoding sparse activations from a neural autoencoder using Huffman.

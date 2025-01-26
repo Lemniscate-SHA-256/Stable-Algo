@@ -1,0 +1,19 @@
+ Brain-Inspired Concepts in Rust
+Sparse Autoencoder:
+
+Use the ndarray crate for tensor operations.
+
+Enforce sparsity with k-WTA (Winner-Take-All) activation.
+
+Predictive Coding:
+
+Implement a predictive RNN (using candle-rs or tch-rs for Torch bindings).
+
+C. Quantum-Inspired Compression
+Qubit Simulation:
+
+Use the qrust or quantum crate to simulate qubit-based entropy coding.
+
+Superposition Codes:
+
+Encode multiple symbols in a single "quantum state" (e.g., probabilistic bits).
